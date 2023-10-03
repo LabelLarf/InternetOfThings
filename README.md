@@ -1,4 +1,4 @@
-# InternetOfThings
+# InternetOfThings - Larissa van Rijn
 
 <H1> LEDstrip kleur via een colorpicker in via Adafruit IO </H1> 
 
