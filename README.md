@@ -9,7 +9,7 @@
 </ul>
 
 <H2>Stap 2: </H2>
-• Ga naar https://io.adafruit.com/ en maak een gratis account aan. 
+• Ga naar https://io.adafruit.com/ en maak een gratis account aan. <br>
 • Als deze is aangemaakt ga je naar https://io.adafruit.com/overview (Dit was voor mij niet duidelijk, als het niet te vinden is, ga in google en zoek Adafruit overview. Dan kom je op de goede pagina terecht.)
 
 
