@@ -2,7 +2,6 @@
 
 <H1> LEDstrip kleur via een colorpicker in via Adafruit IO </H1> 
 
-
 Stappen die je doorloopt om succesvol een DIY Philips Lampje te maken doormiddel van het NodeMCU board + een ledstripje:
 
 
@@ -46,3 +45,5 @@ Stappen die je doorloopt om succesvol een DIY Philips Lampje te maken doormiddel
 <ul>
 <li> Je hebt een Philips HUE gemaakt! :D </li>
 </ul>
+
+Alle informatie komt van: https://docs.google.com/document/d/14jhaxaJUhuu0p6_u_oNj8_50Y6PAmtrvcePtKc0HDGs/edit . 
