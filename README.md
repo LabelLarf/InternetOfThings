@@ -3,10 +3,14 @@
 <H1> LEDstrip kleur via een colorpicker in via Adafruit IO </H1> 
 
 
+Stappen die je doorloopt om succesvol een DIY Philips Lampje te maken doormiddel van het NodeMCU board + een ledstripje:
+
+
 <H2>Stap 1: </H2>
-<ul>
+<ol>
   <li>Instaleer de library Adafruit IO Arduino in de Arduino applicatie. Tools -> Manage labraries</li>
-</ul>
+  <li>Zorg er ook voor dat je board de goede board manager heeft en aangesloten is op het goede port</li>
+</ol>
 
 <H2>Stap 2: </H2>
 <ol>
