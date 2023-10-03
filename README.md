@@ -9,7 +9,8 @@ Stappen die je doorloopt om succesvol een DIY Philips Lampje te maken doormiddel
 <H2>Stap 1: </H2>
 <ol>
   <li>Instaleer de library Adafruit IO Arduino in de Arduino applicatie. Tools -> Manage labraries</li>
-  <li>Zorg er ook voor dat je board de goede board manager heeft en aangesloten is op het goede port</li>
+  <li>Zorg er ook voor dat je board de goede board manager heeft en aangesloten is op het goede port, om verbindingsproblemen te voorkomen</li>
+  <li>Sluit daarnaast je ledstrip aan op (van ledstrip naar board): +5V -> 3V3 | DIN -> D5 | GND -> GND </li>
 </ol>
 
 <H2>Stap 2: </H2>
