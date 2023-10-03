@@ -4,7 +4,9 @@
 
 
 <H2>Stap 1: </H2>
-Instaleer de library Adafruit IO Arduino in de Arduino applicatie. Tools -> Manage labraries
+<ul>
+  <li>Instaleer de library Adafruit IO Arduino in de Arduino applicatie. Tools -> Manage labraries</li>
+</ul>
 
 <H2>Stap 2: </H2>
 Ga naar https://io.adafruit.com/ en maak een gratis account aan. Als deze is aangemaakt ga je naar https://io.adafruit.com/overview 
