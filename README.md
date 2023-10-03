@@ -9,8 +9,9 @@
 </ul>
 
 <H2>Stap 2: </H2>
-Ga naar https://io.adafruit.com/ en maak een gratis account aan. Als deze is aangemaakt ga je naar https://io.adafruit.com/overview 
-(Dit was voor mij niet duidelijk, als het niet te vinden is, ga in google en zoek Adafruit overview. Dan kom je op de goede pagina terecht.)
+• Ga naar https://io.adafruit.com/ en maak een gratis account aan. 
+• Als deze is aangemaakt ga je naar https://io.adafruit.com/overview (Dit was voor mij niet duidelijk, als het niet te vinden is, ga in google en zoek Adafruit overview. Dan kom je op de goede pagina terecht.)
+
 
 <H2>Stap 3: </H2>
 Klik op de pagina de gele sleutel aan en kopier je username en key. Maak vervolgens een dashboard aan, onder kopje dashboard en klik 'nieuw dashboard aanmaken.'
